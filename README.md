@@ -22,7 +22,11 @@ AI Interview and Resume Analyzer built with React.js, Node.js, Express.js, Mongo
 - Dark mode
 - MVC backend with REST APIs, validation and centralized error handling
 
+<<<<<<< HEAD
  ## Screenshots
+=======
+## Screenshots
+>>>>>>> 146d4c0 (Update README and add screenshots)
 
 ### Home Page
 ![Home](screenshots/home.png)
