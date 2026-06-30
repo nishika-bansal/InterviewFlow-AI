@@ -22,6 +22,35 @@ AI Interview and Resume Analyzer built with React.js, Node.js, Express.js, Mongo
 - Dark mode
 - MVC backend with REST APIs, validation and centralized error handling
 
+ ## Screenshots
+
+### Home Page
+![Home](screenshots/home.png)
+
+### Login
+![Login](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Resume Upload
+![Resume Upload](screenshots/resume-upload.png)
+
+### Resume Analysis
+![Resume Analysis](screenshots/resume-analysis.png)
+
+### Interview Generator
+![Interview Generator](screenshots/interview-generator.png)
+
+### AI Interview Questions
+![Interview Questions](screenshots/interview-questions.png)
+
+### AI Feedback
+![AI Feedback](screenshots/answer-feedback.png)
+
+### Cover Letter Generator
+![Cover Letter](screenshots/cover-letter.png)
+
 ## Tech Stack
 
 - Frontend: React.js, Vite, React Router, Axios, lucide-react
